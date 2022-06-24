@@ -1,5 +1,5 @@
 # DAA Lab Weekly Assignments
  WEEK ques
- Shailja Bahuguna
- Section-H
- Roll no-12
+ Shubham Lingwal
+ Section-G
+ Roll no-18
